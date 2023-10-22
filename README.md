@@ -2,7 +2,7 @@
 
 ### Description
 
-The Weather App is a simple and intuitive application that provides up-to-date weather information for various locations around the world. Whether you're planning a trip, checking the weather for your daily activities, or just curious about the forecast, this app has you covered. It offers real-time weather data, including temperature, humidity, wind speed, and more, in a user-friendly interface.
+The Weather App is a simple and intuitive application that provides up-to-date weather information for various locations around the world. It offers real-time weather data, including temperature, humidity, wind speed, and more, in a user-friendly interface.
 
 ### Table of Contents
 
