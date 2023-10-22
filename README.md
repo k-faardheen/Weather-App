@@ -6,9 +6,9 @@ The Weather App is a simple and intuitive application that provides up-to-date w
 
 ### Table of Contents
 
-- [✨ Demo](#demo)
-- [⚙️ Installation](#installation)
-- [🤘 Features](#features)
+- [✨ Demo](#✨-demodemo)
+- [⚙️ Installation](#⚙️-installation)
+- [🤘 Features](#🤘-features)
 
 ### ✨ Demo
 
