@@ -12,7 +12,9 @@ The Weather App is a simple and intuitive application that provides up-to-date w
 
 ### ✨ Demo
 
-![Weather App Demo](assets/demo.gif)
+<div style="text-align:center">
+  <img src="assets/demo.gif" alt="Weather App Demo" />
+</div>
 
 ### ⚙️ Installation
 
